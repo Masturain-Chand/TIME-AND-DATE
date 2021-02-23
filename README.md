@@ -1,2 +1,4 @@
 # TIME-AND-DATE
-It is show Time and Date
+It will show Time and Date.
+
+Using HTML<CSS<Js
